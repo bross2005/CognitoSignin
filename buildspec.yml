@@ -14,5 +14,11 @@ phases:
 
 artifacts:
   files:
+  - buildspec.yml
+  - configs.js
+  - handler.js
+  - package.json
+  - package-lock.json
+  - handler.spec.js
   - serverless.yml
   - deploy.sh
